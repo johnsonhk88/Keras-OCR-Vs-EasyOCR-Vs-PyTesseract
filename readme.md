@@ -1,4 +1,14 @@
-## Keras-ORC -vs EasyOCR vs Pytesseract in Kaggle 
- Tutorial
+## OCR Fine tuning with application
 
-<https://www.kaggle.com/code/johnsonhk88/keras-ocr-vs-easyocr-vs-pytesseract/> 
+
+
+## How to use this project
+- In Test-Different-OCR-Engine folder 
+using different OCR Engine for testing Text Extraction
+
+- In Dev folder 
+develop and test fine tuning AI Model for OCR appliction
+
+
+- Demo folder
+Run real application
