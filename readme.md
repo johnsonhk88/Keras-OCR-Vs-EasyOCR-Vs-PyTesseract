@@ -7,7 +7,8 @@
 using different OCR Engine for testing Text Extraction
 
 - In Dev folder 
-develop and test fine tuning AI Model for OCR appliction
+    - develop and test fine tuning AI Model for OCR appliction
+    - add support t
 
 
 - Demo folder
